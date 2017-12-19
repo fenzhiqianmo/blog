@@ -1,2 +1,2 @@
-# blog
-我的博客
+# promise
+自己实现一个简单的promise
